@@ -1,0 +1,110 @@
+Level,Interest
+Freshman,"Computer Science, Engineering, Design"
+Sophomore,"Technology, Science, Engineering, Design"
+Senior,"Engineering, Mathematics"
+Junior,Mathematics
+Freshman,"Computer Science, Mathematics"
+Sophomore,"Government, History"
+Junior,"Health, Humanities, Education"
+Freshman,"Social Science, Humanities"
+Junior,Humanities
+Senior,History
+Freshman,Design
+Senior,Religion
+Freshman,"Education, Religion"
+Senior,"Engineering, Design"
+Sophomore,"Government, History"
+Junior,"Science, Engineering, Design"
+Freshman,"Mathematics, Engineering, Design"
+Junior,"Religion, History"
+Senior,Design
+Freshman,"Government, History, Humanities"
+Senior,"Computer Science, Design"
+Freshman,"Technology, Design"
+Freshman,"Humanities, Education"
+Junior,"Engineering, Computer Science"
+Senior,"Technology, Engineering, Design"
+Senior,"Religion, History, Government, Design"
+Freshman,"Computer Science, Engineering, Design, Religion"
+Freshman,"Computer Science, Engineering, Design, Religion, Government"
+Junior,"Mathematics, Engineering, Design"
+Junior,"Government, History, Humanities"
+7th Grade,"Science, Mathematics, Government,  Religion"
+6th Grade,"Science, Mathematics,  Religion"
+12th Grade,Mathematics
+10th Grade,"Religion, Government"
+11th Grade,"Government, History"
+6th Grade,"Health, Humanities, Education"
+7th Grade,"Social Science, Humanities"
+6th Grade,Humanities
+12th Grade,Religion
+9th Grade,"Education, Religion"
+11th Grade,"Engineering, Design"
+6th Grade,"Government, History, Technology, Science"
+7th Grade,"Government, History, Technology, Science"
+Masters 1st year,"Mathematics, Engineering"
+6th Grade,"Religion, History"
+12th Grade,"Government, History, Humanities"
+9th Grade,"Government, History, Humanities"
+Masters 2nd year,"Computer Science, Design"
+7th Grade,"Government, History, Humanities, Religion, Science, Technology, Social Science"
+6th Grade,"Government, History, Humanities"
+PHD,Social Science
+9th Grade,"Engineering, Mathematics"
+11th Grade,"Technology, Science"
+Masters 2nd year,"Computer Science, Mathematics"
+6th Grade,"Government, History"
+Masters 2nd year,"Health, Humanities, Education"
+9th Grade,"Social Science, Humanities"
+12th Grade,Humanities
+Masters 2nd year,Religion
+12th Grade,"Education, Religion"
+9th Grade,"Engineering, Design"
+Masters 1st year,"Government, History"
+11th Grade,"Health, Humanities, Education"
+6th Grade,"Government, History, Humanities, Religion, Science, Technology, Social Science"
+PHD,Humanities
+Masters 2nd year,Religion
+9th Grade,"Education, Religion"
+12th Grade,"Engineering, Design"
+Masters 2nd year,Government
+PHD,Education
+10th Grade,"Religion, History"
+7th Grade,"Government, History, Humanities, Religion, Science, Technology"
+9th Grade,"Government, Humanities"
+Masters 1st year,"Computer Science, Design"
+Masters 1st year,"Design"
+10th Grade,"Government, Humanities"
+6th Grade,"Technology, Computer Science, Science, Engineering, Design"
+PHD,Computer Science
+9th Grade,Mathematics
+11th Grade,"Government, History, Humanities"
+6th Grade,"Government, Humanities, Religion, Science, Technology"
+7th Grade,"Government, History, Religion, Science, Technology"
+Masters 1st year,Mathematics
+6th Grade,"Government, History, Humanities, Religion, Science, Technology"
+9th Grade,"Engineering, Mathematics"
+11th Grade,"Technology, Science"
+Masters 2nd year,"Computer Science, Mathematics"
+6th Grade,"Government, History"
+Masters 2nd year,"Health, Humanities, Education"
+9th Grade,"Social Science, Humanities"
+12th Grade,Humanities
+Masters 2nd year,Religion
+12th Grade,"Education, Religion"
+9th Grade,"Engineering, Design"
+Masters 1st year,"Government, History"
+11th Grade,"Health, Humanities, Education"
+6th Grade,"Government, History, Humanities, Religion, Science, Technology, Social Science"
+PHD,Humanities
+Masters 2nd year,Religion
+9th Grade,"Education, Religion"
+12th Grade,"Engineering, Design"
+Masters 2nd year,Government
+PHD,Education
+10th Grade,"Religion, History"
+7th Grade,"Government, History, Humanities, Religion, Science, Technology"
+7th Grade,"Government, History, Humanities"
+Masters 1st year,"Computer Science, Design"
+Masters 1st year,"Computer Science, Design"
+11th Grade,"Government, History, Humanities"
